@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-avast"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-avast component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
